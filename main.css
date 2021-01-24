@@ -1,0 +1,29 @@
+body {
+    margin: 0px;
+}
+
+
+.nav-wrapper {
+    height: 100px;
+    background-color: #505b6b;
+    color: white;
+    align-items: center;
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.link {
+    text-decoration: none;
+    color: white;
+    transition: 0.5s;
+    border-bottom: 1px solid transparent;
+}
+
+.link:hover {
+    border-bottom: 1px solid white;
+}
