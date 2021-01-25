@@ -26,4 +26,5 @@ body {
 
 .link:hover {
     border-bottom: 1px solid white;
+    border-right: 5px solid white;
 }
